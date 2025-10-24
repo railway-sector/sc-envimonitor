@@ -32,8 +32,8 @@ function MapDisplay() {
       basemap="dark-gray-vector"
       ground="world-elevation"
       viewingMode="local"
-      zoom="13"
-      center="120.5793, 15.18"
+      zoom="12"
+      center="121.005, 14.56"
       onarcgisViewReadyChange={(event) => {
         setSceneView(event.target);
       }}
