@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sc-envimonitor/static/css/main.254d0fe3.css",
-    "main.js": "/sc-envimonitor/static/js/main.164c9b1c.js",
+    "main.js": "/sc-envimonitor/static/js/main.1c24c8f2.js",
     "static/js/20623.4eef553d.chunk.js": "/sc-envimonitor/static/js/20623.4eef553d.chunk.js",
     "static/js/34429.e2732a28.chunk.js": "/sc-envimonitor/static/js/34429.e2732a28.chunk.js",
     "static/js/24300.cf9a3f08.chunk.js": "/sc-envimonitor/static/js/24300.cf9a3f08.chunk.js",
@@ -537,7 +537,7 @@
     "static/js/37356.a79e068a.chunk.js": "/sc-envimonitor/static/js/37356.a79e068a.chunk.js",
     "index.html": "/sc-envimonitor/index.html",
     "main.254d0fe3.css.map": "/sc-envimonitor/static/css/main.254d0fe3.css.map",
-    "main.164c9b1c.js.map": "/sc-envimonitor/static/js/main.164c9b1c.js.map",
+    "main.1c24c8f2.js.map": "/sc-envimonitor/static/js/main.1c24c8f2.js.map",
     "20623.4eef553d.chunk.js.map": "/sc-envimonitor/static/js/20623.4eef553d.chunk.js.map",
     "34429.e2732a28.chunk.js.map": "/sc-envimonitor/static/js/34429.e2732a28.chunk.js.map",
     "24300.cf9a3f08.chunk.js.map": "/sc-envimonitor/static/js/24300.cf9a3f08.chunk.js.map",
@@ -1011,6 +1011,6 @@
   },
   "entrypoints": [
     "static/css/main.254d0fe3.css",
-    "static/js/main.164c9b1c.js"
+    "static/js/main.1c24c8f2.js"
   ]
 }
