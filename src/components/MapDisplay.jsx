@@ -23,6 +23,7 @@ function MapDisplay() {
       arcgisScene.map.add(alignmentGroupLayer);
       arcgisScene.map.add(stationLayer);
       arcgisScene.map.add(monitorPointLayer);
+      arcgisScene.view.ui.components = [];
     }
   });
 
