@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksc_envimonitor=self.webpackChunksc_envimonitor||[]).push([[63431],{63431:(e,s,t)=>{t.r(s),t.d(s,{default:()=>r});var a=t(6326),c=(t(76460),t(81806),t(47249),t(50076),t(87990)),i=t(98774);let n=class extends i.A{constructor(){super(...arguments),this.type="base-dynamic-3d"}};n=(0,a.Cg)([(0,c.$)("esri.views.3d.layers.BaseDynamicLayerView3D")],n);const r=n}}]);
+//# sourceMappingURL=63431.b8314a5f.chunk.js.map

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksc_envimonitor=self.webpackChunksc_envimonitor||[]).push([[36061],{36061:(e,i,s)=>{s.r(i),s.d(i,{CutFillReductionParameters:()=>n.C,build:()=>n.b});s(73398),s(86955),s(70367),s(31432),s(2687);var n=s(72915)}}]);
