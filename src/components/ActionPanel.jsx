@@ -121,17 +121,23 @@ function ActionPanel() {
 
         <CalcitePanel heading="Description" data-panel-id="information" hidden>
           {nextWidget === "information" ? (
-            <div className="informationDiv">
+            <div style={{ paddingLeft: "20px" }}>
+              This smart map shows the results of environmental assessment on
+              the following:
               <ul>
-                <li>
-                  <b>Chart</b> shows the number of monitoring stations in exceed
-                  of the allowable threshold values.
-                </li>
-                <li>
-                  <b>Click</b> the chart series to zoom to the respective
-                  stations.
-                </li>
+                <li>Noise, </li>
+                <li>Vibration, </li>
+                <li>Air Quality, </li>
+                <li>Soil Water, </li>
+                <li>Ground-water, </li>
+                <li>Surface Water, </li>
               </ul>
+              <div style={{ paddingLeft: "20px" }}>
+                <li>
+                  The source of data: <b>master list tables</b> provided by the
+                  Environmental Team.
+                </li>
+              </div>
             </div>
           ) : (
             <div className="informationDiv" hidden></div>
