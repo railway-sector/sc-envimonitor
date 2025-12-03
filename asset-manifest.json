@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sc-envimonitor/static/css/main.2d3e652f.css",
-    "main.js": "/sc-envimonitor/static/js/main.a03c1f2f.js",
+    "main.js": "/sc-envimonitor/static/js/main.f4f727e6.js",
     "static/js/20623.4eef553d.chunk.js": "/sc-envimonitor/static/js/20623.4eef553d.chunk.js",
     "static/js/34429.e2732a28.chunk.js": "/sc-envimonitor/static/js/34429.e2732a28.chunk.js",
     "static/js/24300.013df5f3.chunk.js": "/sc-envimonitor/static/js/24300.013df5f3.chunk.js",
@@ -623,7 +623,7 @@
     "static/media/09ab0626-bb45-4650-acc8-0182d693df02-hebrew.woff2": "/sc-envimonitor/static/media/09ab0626-bb45-4650-acc8-0182d693df02-hebrew.34f5f4ec364bd2996c4e.woff2",
     "index.html": "/sc-envimonitor/index.html",
     "main.2d3e652f.css.map": "/sc-envimonitor/static/css/main.2d3e652f.css.map",
-    "main.a03c1f2f.js.map": "/sc-envimonitor/static/js/main.a03c1f2f.js.map",
+    "main.f4f727e6.js.map": "/sc-envimonitor/static/js/main.f4f727e6.js.map",
     "20623.4eef553d.chunk.js.map": "/sc-envimonitor/static/js/20623.4eef553d.chunk.js.map",
     "34429.e2732a28.chunk.js.map": "/sc-envimonitor/static/js/34429.e2732a28.chunk.js.map",
     "24300.013df5f3.chunk.js.map": "/sc-envimonitor/static/js/24300.013df5f3.chunk.js.map",
@@ -1123,6 +1123,6 @@
   },
   "entrypoints": [
     "static/css/main.2d3e652f.css",
-    "static/js/main.a03c1f2f.js"
+    "static/js/main.f4f727e6.js"
   ]
 }
